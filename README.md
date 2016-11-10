@@ -43,6 +43,6 @@ Make sure that you always call *finishReading* in pair with *beginReading*. Argu
 
 ### Installation
 
-There is no Maven artifact for this simple library. Current implementation of ring buffer is only one file. Just copy it to you project sources and begin to use. Good luck!
+There is no Maven artifact for this simple library. Current implementation of ring buffer is only one file. Just copy it to your project sources and begin to use. Good luck!
 
 [1]: https://en.wikipedia.org/wiki/Circular_buffer
